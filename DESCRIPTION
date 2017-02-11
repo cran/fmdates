@@ -1,7 +1,7 @@
 Package: fmdates
 Type: Package
 Title: Financial Market Date Calculations
-Version: 0.1.1
+Version: 0.1.2
 Author: Imanuel Costigan <i.costigan@me.com>
 Maintainer: Imanuel Costigan <i.costigan@me.com>
 Description: Implements common date calculations relevant for specifying
@@ -14,7 +14,7 @@ License: GPL-2
 Encoding: UTF-8
 LazyData: true
 Imports: lubridate (>= 1.6.0), assertthat, methods, utils
-RoxygenNote: 6.0.0
+RoxygenNote: 6.0.1
 Suggests: testthat, knitr, rmarkdown, covr
 VignetteBuilder: knitr
 Collate: 'calendar-classes.R' 'calendar-methods.R' 'date-methods.R'
@@ -23,6 +23,6 @@ Collate: 'calendar-classes.R' 'calendar-methods.R' 'date-methods.R'
 URL: https://github.com/imanuelcostigan/fmdates
 BugReports: https://github.com/imanuelcostigan/fmdates/issues
 NeedsCompilation: no
-Packaged: 2017-02-05 00:06:43 UTC; imanuel
+Packaged: 2017-02-11 02:32:28 UTC; imanuel
 Repository: CRAN
-Date/Publication: 2017-02-05 08:25:51
+Date/Publication: 2017-02-11 11:04:12
